@@ -1,0 +1,17 @@
+Notes taken from Practical Reinforcement Learning course
+
+Week 3 - On-Policy vs Off-Policy
+On Policy
+  Agent can pick actions
+  Most Obvious
+  Agent always follows his own policy
+  Can't learn off-policy
+  faster/better
+
+Off Policy
+  Agent can't pick actions
+  Learns with exploration, plays without
+  Learning from expert (expert is imperfect)
+  Learning from sessions (recorded data)
+  Can learn on-policy
+  learns optimal policy even if agent takes random actions
