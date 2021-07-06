@@ -15,3 +15,8 @@ Off Policy
   Learning from sessions (recorded data)
   Can learn on-policy
   learns optimal policy even if agent takes random actions
+  
+*Review types of DQN
+
+
+Regret - dif between real optimal vs agent gotten 'values' when applied
