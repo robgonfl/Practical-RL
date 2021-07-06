@@ -19,4 +19,6 @@ Off Policy
 *Review types of DQN
 
 
-Regret - dif between real optimal vs agent gotten 'values' when applied
+Regret
+  dif between real optimal vs agent gotten 'reward' when applied
+  Less regret = better exploration
